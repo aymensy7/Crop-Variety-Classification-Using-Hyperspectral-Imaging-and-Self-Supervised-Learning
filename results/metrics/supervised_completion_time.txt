@@ -1,0 +1,8 @@
+Supervised training completed at: Sun Dec 14 10:02:40 2025
+Total training time: 0h 6m 27s
+Total epochs trained: 200
+Best epoch: 186
+Best val loss: 0.0861
+Best val accuracy: 95.07%
+Test accuracy: 96.07%
+Test F1: 0.9609

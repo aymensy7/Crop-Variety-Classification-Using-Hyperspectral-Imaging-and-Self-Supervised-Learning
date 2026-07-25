@@ -1,0 +1,5 @@
+split,count,percentage,Corn-notill_train,Corn-notill_val,Corn-notill_test,Corn-notill_total,Corn-mintill_train,Corn-mintill_val,Corn-mintill_test,Corn-mintill_total,Corn_train,Corn_val,Corn_test,Corn_total,Soybean-notill_train,Soybean-notill_val,Soybean-notill_test,Soybean-notill_total,Soybean-mintill_train,Soybean-mintill_val,Soybean-mintill_test,Soybean-mintill_total,Soybean-clean_train,Soybean-clean_val,Soybean-clean_test,Soybean-clean_total,Wheat_train,Wheat_val,Wheat_test,Wheat_total
+train,4634,70.0,1000,0,0,0,544,0,0,0,166,0,0,0,677,0,0,0,1689,0,0,0,415,0,0,0,143,0,0,0
+val,993,15.0,0,214,0,0,0,116,0,0,0,36,0,0,0,145,0,0,0,362,0,0,0,89,0,0,0,31,0,0
+test,993,15.0,0,0,214,0,0,0,117,0,0,0,35,0,0,0,145,0,0,0,362,0,0,0,89,0,0,0,31,0
+total,6620,100.0,0,0,0,1428,0,0,0,777,0,0,0,237,0,0,0,967,0,0,0,2413,0,0,0,593,0,0,0,205

@@ -1,0 +1,21 @@
+# Raw dataset (large, downloadable via data/download_data.py)
+data/*.mat
+
+# Regenerable per-pixel split artifacts (large; split_summary.csv is kept)
+results/splits/*.pkl
+results/splits/train_split.csv
+results/splits/val_split.csv
+results/splits/test_split.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+venv/
+
+# OS / editor cruft
+.DS_Store
+.vscode/
+.idea/
