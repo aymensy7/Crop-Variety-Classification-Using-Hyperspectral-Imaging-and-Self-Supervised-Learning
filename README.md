@@ -96,7 +96,6 @@ Soybean varieties, plus Wheat) and a stratified 70/15/15 train/val/test split.
 │   └── splits/split_summary.csv # class counts per split
 └── report/
     ├── REPORT.pdf                # full written report
-    └── latex/                    # LaTeX source
 ```
 
 ## Setup
